@@ -9,6 +9,7 @@
 
 <script>
 let carName1 = "Volvo XC60"; 
+let carName1 = "Volvo XC70"; 
 let carName2 = 'Volvo XC90'; 
 
 document.getElementById("demo").innerHTML =
